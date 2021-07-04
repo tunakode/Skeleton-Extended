@@ -439,6 +439,23 @@ hr {
     background-color: #777;
   }
 
+  .bg-danger {
+    background-color: #fcbab1;
+  }
+
+  .bg-success {
+    background-color: #b1fcc6;
+  }
+
+  .bg-warning {
+    background-color: #fcf6b1;
+  }
+
+  .bg-info {
+    background-color: #b1b6fc;
+  }
+
+
 
   #footer
   {
@@ -474,6 +491,18 @@ hr {
 .no-padding {
   padding: 0px;
 }
+
+.img-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.text-center {
+  text-align: center;
+}
+
 /* Media Queries
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 /*
